@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.header{
+  text-align: center;
+  
+}
+
+
+nav a{
+  padding: 10px;
+  
+}
+
+#featured-property {
+  display: block;
+  text-align: center;
+  
+    
+}
+
+
+#details{
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  background-color: red;
+  margin:0;
+}
+section p{
+ margin-left: 20%;
+  margin-right:20% ;
+
+}
